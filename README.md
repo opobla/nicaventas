@@ -235,7 +235,7 @@ docker-compose up
 3) Hacer una petición GET para la misma ciudad y pais. Verificar que para esta primera petición el campo `cache` deber ser `miss`.
 4) Hacer una segunda petición GET para la misma ciudad y pais. Verificar que para esta segunda petición y las consecutivas el campo `cache` deber ser `hit`.
 
-:moneybag:Calificación 60%
+:moneybag: Calificación 60%
 
 ### Nivel 4
 
@@ -258,4 +258,4 @@ docker-compose up
 
 Hacer pruebas específicas con distintas llamadas para comprobar que se disparan las reglas apropiadas en casa caso y que se cachean las respuestas.
 
-:moneybag:Calificación 100%
+:moneybag: Calificación 100%
